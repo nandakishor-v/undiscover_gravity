@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Newton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Newton
+  - Background
+  - Apple
+  - Wall
+  - Fallen Apple
+  - Ground
+  - Comics
+  - Health Bar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4081293937
+    locked: 0
+  - name: Newton
+    uniqueID: 3181694645
+    locked: 0
+  - name: Comics
+    uniqueID: 2652395799
+    locked: 0
+  - name: Apple
+    uniqueID: 391239133
+    locked: 0
+  - name: Wall
+    uniqueID: 3095688539
+    locked: 0
+  - name: Health Bar
+    uniqueID: 541673875
+    locked: 0
